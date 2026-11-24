@@ -1,4 +1,4 @@
-Halo Kak {{nama}}! Semoga harinya menyenangkan 😊
+Halo Kak! Semoga harinya menyenangkan 😊
 
 Banyak klien kami yang awalnya ragu bikin website karena takut ribet mikirin tulisan, desain, atau setting teknisnya.
 

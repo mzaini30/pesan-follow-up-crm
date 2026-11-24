@@ -5,9 +5,9 @@ Koleksi draf pesan copywriting otomatis (follow-up prospek tertahan dan penawara
 ## 📁 Daftar Pesan
 
 ### 🔴 Follow Up Prospek Tertahan (Urgent)
-1. **[01_Follow_Up_Hari_9_Company_Profile.txt](01_Follow_Up_Hari_9_Company_Profile.txt)** - Follow up hari ke-9 jasa website company profile (Angle: Break-up message / konfirmasi kelanjutan proyek).
-2. **[02_Follow_Up_Hari_5_Excel.txt](02_Follow_Up_Hari_5_Excel.txt)** - Follow up hari ke-5 kursus/template Excel (Angle: Solusi efisiensi kerja & reminder kupon diskon).
-3. **[03_Follow_Up_Hari_9_Kelas_Web.txt](03_Follow_Up_Hari_9_Kelas_Web.txt)** - Follow up hari ke-9 pendaftaran Kelas Web (Angle: Last call / penutupan slot promo).
+1. **[01_Follow_Up_Hari_9_Company_Profile.txt](01_Follow_Up_Hari_9_Company_Profile.txt)** - Follow up hari ke-9 jasa website company profile (Angle: Empathy-first / bantuan materi web tanpa tekanan).
+2. **[02_Follow_Up_Hari_5_Excel.txt](02_Follow_Up_Hari_5_Excel.txt)** - Follow up hari ke-5 kumpulan file latihan Excel (Angle: Belajar praktek studi kasus riil & instruksi direct transfer).
+3. **[03_Follow_Up_Hari_9_Kelas_Web.txt](03_Follow_Up_Hari_9_Kelas_Web.txt)** - Follow up hari ke-9 Kelas Web (Angle: Belajar fleksibel via Playlist YouTube & instruksi transfer langsung).
 4. **[04_Follow_Up_Hari_6_Pembuatan_Website.txt](04_Follow_Up_Hari_6_Pembuatan_Website.txt)** - Follow up hari ke-6 jasa bikin web (Angle: Kemudahan terima beres & konsultasi konsep).
 5. **[05_Follow_Up_Hari_5_WordPress_AI.txt](05_Follow_Up_Hari_5_WordPress_AI.txt)** - Follow up hari ke-5 WordPress AI (Angle: Efisiensi waktu bikin website cepat dengan AI).
 
@@ -23,5 +23,5 @@ Koleksi draf pesan copywriting otomatis (follow-up prospek tertahan dan penawara
 ---
 
 ## 🛠️ Catatan Penggunaan
-- Sesuaikan variabel `{{nama}}` dengan tag merge sistem autoresponder Anda (misal: `{name}`, `{first_name}`).
-- Ganti placeholder `[LINK ...]` dengan URL checkout atau landing page yang sesuai.
+- Sapaan dibuat netral menggunakan panggilan `Kak` tanpa tag nama dinamis.
+- Ganti placeholder seperti `[LINK ...]`, `[NOMINAL]`, atau data rekening dengan informasi bisnis Anda yang sesuai.
