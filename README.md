@@ -9,7 +9,8 @@ Koleksi draf pesan copywriting otomatis (follow-up prospek tertahan dan penawara
 2. **[02_Follow_Up_Hari_5_Excel.txt](02_Follow_Up_Hari_5_Excel.txt)** - Follow up hari ke-5 kumpulan file latihan Excel (Angle: Belajar praktek studi kasus riil & instruksi direct transfer).
 3. **[03_Follow_Up_Hari_9_Kelas_Web.txt](03_Follow_Up_Hari_9_Kelas_Web.txt)** - Follow up hari ke-9 Kelas Web (Angle: Belajar fleksibel via Playlist YouTube & instruksi transfer langsung).
 4. **[04_Follow_Up_Hari_6_Pembuatan_Website.txt](04_Follow_Up_Hari_6_Pembuatan_Website.txt)** - Follow up hari ke-6 jasa bikin web (Angle: Kemudahan terima beres & konsultasi konsep).
-5. **[05_Follow_Up_Hari_5_WordPress_AI.txt](05_Follow_Up_Hari_5_WordPress_AI.txt)** - Follow up hari ke-5 WordPress AI (Angle: Efisiensi waktu bikin website cepat dengan AI).
+5. **[05_Follow_Up_Hari_5_WordPress_AI.txt](05_Follow_Up_Hari_5_WordPress_AI.txt)** - Follow up hari ke-5 WordPress AI (Angle: Efisiensi waktu bikin web dengan AI & direct transfer).
+6. **[11_Follow_Up_Hari_2_Motion.txt](11_Follow_Up_Hari_2_Motion.txt)** - Follow up hari ke-2 Motion (Angle: Bikin video animasi praktis tanpa software rumit & direct transfer).
 
 ---
 
